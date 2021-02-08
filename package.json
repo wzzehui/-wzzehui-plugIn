@@ -8,6 +8,12 @@
     "compile": "babel src --out-dir lib --copy-files",
     "build": "babel src --out-file lib/main.js"
   },
+  "homepage": "https://github.com/wzzehui/-wzzehui-plugIn",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wzzehui/-wzzehui-plugIn.git#develop"
+  },
+  "files": ["lib"],
   "author": "zzh",
   "license": "ISC",
   "devDependencies": {
