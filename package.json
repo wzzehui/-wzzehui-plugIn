@@ -9,9 +9,10 @@
     "build": "babel src --out-file lib/main.js"
   },
   "homepage": "https://github.com/wzzehui/-wzzehui-plugIn",
+  "private": false,
   "repository": {
     "type": "git",
-    "url": "git@github.com:wzzehui/-wzzehui-plugIn.git#develop"
+    "url": "https://github.com/wzzehui/-wzzehui-plugIn.git#develop"
   },
   "files": ["lib"],
   "author": "zzh",
