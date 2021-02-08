@@ -5,8 +5,8 @@
   "keywords": [],
   "main": "lib/index.js",
   "scripts": {
-    "compile": "babel src --out-dir lib --copy-files",
-    "build": "babel src --out-file lib/main.js"
+    "compile1": "babel src --out-dir lib --copy-files",
+    "build1": "babel src --out-file lib/main.js"
   },
   "homepage": "https://github.com/wzzehui/-wzzehui-plugIn",
   "private": false,
